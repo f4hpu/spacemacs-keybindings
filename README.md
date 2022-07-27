@@ -20,6 +20,18 @@ Here I write down specific spacemacs keybindings along learning...
 | <kbd>SPC</kbd> + <kbd>w</kbd> + <kbd>H</kbd>                   | move the window to the left                            |
 | <kbd>SPC</kbd> + <kbd>w</kbd> + <kbd>d</kbd>                   | Delete focus window                                    |
 
+## Project layout
+
+| Key Sequence                                                   | Action                                                 |
+|:--------------------------------------------------------------:| ------------------------------------------------------ |
+| <kbd>SPC</kbd> + <kbd>f</kbd> + <kbd>t</kbd>                   | Open Tree window                                       |
+
+## git
+
+| Key Sequence                                                   | Action                                                 |
+|:--------------------------------------------------------------:| ------------------------------------------------------ |
+| <kbd>SPC</kbd> + <kbd>g</kbd> + <kbd>s</kbd>                   | git status                                             |
+
 ## Spacemacs
 
 | Key Sequence                                                   | Action                                                 |
