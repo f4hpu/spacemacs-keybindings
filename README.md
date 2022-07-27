@@ -30,7 +30,7 @@ Here I write down specific spacemacs keybindings along learning...
 
 | Key Sequence                                                   | Action                                                 |
 |:--------------------------------------------------------------:| ------------------------------------------------------ |
-| <kbd>SPC</kbd> + <kbd>g</kbd> + <kbd>s</kbd>                   | git status                                             |
+| <kbd>SPC</kbd> + <kbd>g</kbd> + <kbd>s</kbd>                   | git status (then, s/u : stage, c : commit, p for push) |
 
 ## Spacemacs
 
